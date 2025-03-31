@@ -4,6 +4,8 @@ This is a datapod template that has Zod validation of a JSON file set up with ea
 
 For example, this repo was used to make the datapod-for-react-go-json and datapod-for-react-python-json datapods.
 
+![reactjson111](https://github.com/user-attachments/assets/57d5c6f4-30f2-466e-a7f4-c6759631ac6a)
+
 ## frontend
 
 -   Vite React
